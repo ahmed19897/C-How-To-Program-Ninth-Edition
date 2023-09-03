@@ -24,7 +24,7 @@ int main()
 
 
 
-    AttemptAFullKnightTour(1,6);//the best start row and column
+    AttemptAFullKnightTour(1,6);//1,6 is the best start row and column
 
     return 0;
 }
