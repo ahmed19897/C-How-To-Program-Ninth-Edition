@@ -1,7 +1,7 @@
 #include <iostream>
 #include <iomanip>
 using namespace std;
-
+//Stream input/output
 
 int main()
 {
