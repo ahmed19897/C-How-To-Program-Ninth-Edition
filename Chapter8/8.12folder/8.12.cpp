@@ -9,6 +9,8 @@ using namespace std;
 #define startingPoint 1
 #define endPoint 70
 
+//pointers
+
 default_random_engine engine(static_cast<unsigned int>(time(0)));
 uniform_int_distribution<unsigned int> randomInt(1,10);
 
