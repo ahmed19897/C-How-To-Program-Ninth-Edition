@@ -4,7 +4,7 @@
 #include <array>
 using namespace std;
 
-
+//Class Tempelate array and vector;catching exception
 
 int main()
 {
